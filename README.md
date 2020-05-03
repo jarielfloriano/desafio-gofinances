@@ -7,34 +7,34 @@
 </h3>
 
 <p align="center">
-  <img alt="Languagues" src="https://img.shields.io/github/languages/count/ArthurPedroti/go-finances">
-  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/ArthurPedroti/go-finances">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurPedroti/go-finances">
-  <a href="https://github.com/ArthurPedroti/go-finances/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/ArthurPedroti/go-finances">
+  <img alt="Languagues" src="https://img.shields.io/github/languages/count/jarielfloriano/go-finances">
+  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/jarielfloriano/go-finances">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jarielfloriano/go-finances">
+  <a href="https://github.com/jarielfloriano/go-finances/commits/master">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/jarielfloriano/go-finances">
   </a>
-   <a href="https://github.com/ArthurPedroti/go-finances/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/go-finances">
+   <a href="https://github.com/jarielfloriano/go-finances/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/jarielfloriano/go-finances">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/go-finances">
+  <img alt="License" src="https://img.shields.io/github/license/jarielfloriano/go-finances">
 </p>
 <p align="center">
 
-  <a href="https://github.com/ArthurPedroti" target="_blank">
-    <img alt="Made by Arthur Pedroti" src="https://img.shields.io/badge/made%20by-Arthur_Pedroti-informational">
+  <a href="https://github.com/jarielfloriano" target="_blank">
+    <img alt="Made by Jariel Floriano" src="https://img.shields.io/badge/made%20by-Jariel_Floriano-informational">
   </a>
-  <a href="https://github.com/ArthurPedroti" target="_blank" >
-    <img alt="Github - Arthur Pedroti" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
+  <a href="https://github.com/jarielfloriano" target="_blank" >
+    <img alt="Github - Jariel Floriano" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/arthurpedroti/" target="_blank" >
-    <img alt="Linkedin - Arthur Pedroti" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+  <a href="https://www.linkedin.com/in/jarielfloriano/" target="_blank" >
+    <img alt="Linkedin - Jariel Floriano" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
   </a>
-  <a href="mailto:arthurpedroti@gmail.com" target="_blank" >
-    <img alt="Email - Arthur Pedroti" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+  <a href="mailto:jarielfloriano@gmail.com" target="_blank" >
+    <img alt="Email - Jariel Floriano" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5519991830454"
         target="_blank" >
-    <img alt="Fale comigo no whatsapp - Arthur Pedroti" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
+    <img alt="Fale comigo no whatsapp - Jariel Floriano" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
   </a>
 
 </p>
@@ -73,14 +73,14 @@ yarn start
 
 ## Author
 
-👤 **Arthur Pedroti**
+👤 **Jariel Floriano**
 
-* Github: [@ArthurPedroti](https://github.com/ArthurPedroti)
-* Linkedin: [@ArthurPedroti](https://www.linkedin.com/in/arthurpedroti)
+* Github: [@jarielfloriano](https://github.com/jarielfloriano)
+* Linkedin: [@jariel-floriano](https://www.linkedin.com/in/jariel-floriano)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ArthurPedroit/go-finances/issues). You can also take a look at the [contributing guide](https://github.com/ArthurPedroit/go-finances/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/jarielfloriano/go-finances/issues). You can also take a look at the [contributing guide](https://github.com/jarielfloriano/go-finances/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -88,9 +88,9 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Arthur Pedroti](https://github.com/ArthurPedroti).<br />
-This project is [MIT](https://github.com/ArthurPedroit/go-finances/blob/master/LICENSE) licensed.
+Copyright © 2020 [Jariel Floriano](https://github.com/jarielfloriano).<br />
+This project is [MIT](https://github.com/jarielfloriano/go-finances/blob/master/LICENSE) licensed.
 
 ---
 
-Made by :blue_heart: by [Arthur Pedroti](https://github.com/ArthurPedroti)
+Made by :blue_heart: by [Jariel Floriano](https://github.com/jarielfloriano)
