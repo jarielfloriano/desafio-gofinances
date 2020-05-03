@@ -26,7 +26,7 @@
   <a href="https://github.com/jarielfloriano" target="_blank" >
     <img alt="Github - Jariel Floriano" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/jarielfloriano/" target="_blank" >
+  <a href="https://www.linkedin.com/in/jariel-floriano/" target="_blank" >
     <img alt="Linkedin - Jariel Floriano" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
   </a>
   <a href="mailto:jariel.floriano@gmail.com" target="_blank" >
